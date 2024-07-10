@@ -8,3 +8,9 @@ INFO    10 Jul 2024 11:15:34 org.joget.apps.app.service.AppServiceImpl - Importe
 INFO    10 Jul 2024 11:15:34 org.joget.apps.app.service.AppServiceImpl - Imported plugins : 0
 INFO    10 Jul 2024 11:16:07 org.enhydra.shark.SharkUtilitiesAspect - Cache counter range for _process_ : [201 - 401]
 INFO    10 Jul 2024 11:16:07 org.enhydra.shark.SharkUtilitiesAspect - Cache counter range for _activity_ : [201 - 401]
+INFO    10 Jul 2024 13:40:57 PackageEventLogger - UTCTime=1720593657957,EventType=packageUpdated,PackageId=jtc,PackageVersion=2,EventPerformedBy=admin
+INFO    10 Jul 2024 13:40:58 org.joget.apps.app.service.AppServiceImpl - Imported xpdl
+INFO    10 Jul 2024 13:40:58 org.joget.apps.app.service.AppServiceImpl - Imported process tool mappings : 2
+INFO    10 Jul 2024 13:40:58 org.joget.apps.app.service.AppServiceImpl - Imported process participant mappings : 1
+INFO    10 Jul 2024 13:40:58 org.joget.apps.app.service.AppServiceImpl - Imported app resources files : 0
+INFO    10 Jul 2024 13:40:58 org.joget.apps.app.service.AppServiceImpl - Imported plugins : 0
