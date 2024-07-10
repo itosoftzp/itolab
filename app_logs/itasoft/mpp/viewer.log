@@ -1,0 +1,19 @@
+INFO    09 Jul 2024 12:50:58 org.enhydra.shark.SharkUtilitiesAspect - Cache object id range : [1000400 - 1000600]
+INFO    09 Jul 2024 12:50:58 org.enhydra.shark.SharkUtilitiesAspect - Cache counter range for _xpdldata_ : [201 - 401]
+INFO    09 Jul 2024 12:50:58 PackageEventLogger - UTCTime=1720504258464,EventType=packageLoaded,PackageId=mpp,PackageVersion=1,EventPerformedBy=admin
+INFO    09 Jul 2024 12:50:59 org.joget.apps.app.service.AppServiceImpl - Imported xpdl
+INFO    09 Jul 2024 12:51:00 org.joget.apps.app.service.AppServiceImpl - Imported process form mappings : 28
+INFO    09 Jul 2024 12:51:03 org.joget.apps.app.service.AppServiceImpl - Imported process tool mappings : 48
+INFO    09 Jul 2024 12:51:04 org.joget.apps.app.service.AppServiceImpl - Imported process participant mappings : 18
+INFO    09 Jul 2024 12:51:04 org.joget.apps.app.service.AppServiceImpl - Imported app resources files : 3
+INFO    09 Jul 2024 12:51:04 org.joget.plugin.base.PluginManager - Bundle org.joget.process.enhancement started
+INFO    09 Jul 2024 12:51:04 org.joget.plugin.base.PluginManager - Bundle org.joget.marketplace.status-color-datalist-formatter started
+INFO    09 Jul 2024 12:51:04 org.joget.plugin.base.PluginManager - Bundle org.joget.touch-friendly-elements started
+INFO    09 Jul 2024 12:51:04 org.joget.apps.app.service.AppServiceImpl - Imported plugins : 3
+INFO    09 Jul 2024 12:51:57 org.displaytag.export.ExportViewFactory - Initializing ExportViewFactory with type={csv,excel,xml,pdf}
+INFO    09 Jul 2024 13:40:47 org.enhydra.shark.SharkUtilitiesAspect - Cache counter range for _process_ : [1 - 201]
+INFO    09 Jul 2024 13:40:47 org.enhydra.shark.SharkUtilitiesAspect - Cache counter range for _processdata_ : [1 - 201]
+INFO    09 Jul 2024 13:40:48 org.enhydra.shark.SharkUtilitiesAspect - Cache counter range for _activity_ : [1 - 201]
+INFO    09 Jul 2024 13:40:48 org.enhydra.shark.SharkUtilitiesAspect - Cache counter range for _activitydata_ : [1 - 201]
+INFO    09 Jul 2024 13:40:48 org.joget.apps.app.service.AppUtil - SMTP is not configured!
+INFO    09 Jul 2024 14:12:18 org.joget.apps.app.service.AppUtil - SMTP is not configured!

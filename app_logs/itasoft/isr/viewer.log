@@ -1,0 +1,1 @@
+INFO    10 Jul 2024 10:38:24 org.displaytag.export.ExportViewFactory - Initializing ExportViewFactory with type={csv,excel,xml,pdf}

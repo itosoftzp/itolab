@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class entity-name="app_fd_source_raw_materials" lazy="false" name="org.joget.apps.form.model.FormRow" table="app_fd_source_raw_materials">
+        <id name="id" type="string"/>
+        <property index="idx_datecreated" name="dateCreated" type="timestamp"/>
+        <property name="dateModified" type="timestamp"/>
+        <property index="idx_createdby" name="createdBy" type="string"/>
+        <property name="createdByName" type="string"/>
+        <property name="modifiedBy" type="string"/>
+        <property name="modifiedByName" type="string"/>
+        <dynamic-component insert="true" name="customProperties" optimistic-lock="true" unique="false" update="true"><property column="c_delivery_date" name="delivery_date" not-null="false" type="text"/><property column="c_bill_of_materials_bom" name="bill_of_materials_bom" not-null="false" type="text"/><property column="c_final_engineering_drawing" name="final_engineering_drawing" not-null="false" type="text"/><property column="c_datasheet" name="datasheet" not-null="false" type="text"/><property column="c_remarks" name="remarks" not-null="false" type="text"/></dynamic-component>
+    </class>
+</hibernate-mapping>
