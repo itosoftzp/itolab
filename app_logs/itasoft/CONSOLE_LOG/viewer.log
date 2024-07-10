@@ -209,3 +209,18 @@ INFO    10 Jul 2024 10:36:42 org.displaytag.properties.TableProperties - LocaleR
 INFO    10 Jul 2024 10:36:42 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
 INFO    10 Jul 2024 10:38:16 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (112.215.170.69) : true
 INFO    10 Jul 2024 10:38:24 org.displaytag.export.ExportViewFactory - Initializing ExportViewFactory with type={csv,excel,xml,pdf}
+INFO    10 Jul 2024 11:15:32 org.joget.apps.app.service.AppServiceImpl - Importing app jtc ...
+INFO    10 Jul 2024 11:15:33 org.joget.apps.app.service.AppServiceImpl - Imported form definitions : 2
+INFO    10 Jul 2024 11:15:33 org.joget.apps.app.service.AppServiceImpl - Imported datalist definitions : 2
+INFO    10 Jul 2024 11:15:33 org.joget.apps.app.service.AppServiceImpl - Imported userview definitions : 1
+INFO    10 Jul 2024 11:15:33 org.joget.apps.app.service.AppServiceImpl - Imported environments variables : 1
+INFO    10 Jul 2024 11:15:34 org.enhydra.shark.SharkUtilitiesAspect - Cache object id range : [1000600 - 1000800]
+INFO    10 Jul 2024 11:15:34 org.enhydra.shark.SharkUtilitiesAspect - Cache counter range for _xpdldata_ : [401 - 601]
+INFO    10 Jul 2024 11:15:34 PackageEventLogger - UTCTime=1720584934234,EventType=packageLoaded,PackageId=jtc,PackageVersion=1,EventPerformedBy=admin
+INFO    10 Jul 2024 11:15:34 org.joget.apps.app.service.AppServiceImpl - Imported xpdl
+INFO    10 Jul 2024 11:15:34 org.joget.apps.app.service.AppServiceImpl - Imported process tool mappings : 2
+INFO    10 Jul 2024 11:15:34 org.joget.apps.app.service.AppServiceImpl - Imported process participant mappings : 1
+INFO    10 Jul 2024 11:15:34 org.joget.apps.app.service.AppServiceImpl - Imported app resources files : 0
+INFO    10 Jul 2024 11:15:34 org.joget.apps.app.service.AppServiceImpl - Imported plugins : 0
+INFO    10 Jul 2024 11:16:07 org.enhydra.shark.SharkUtilitiesAspect - Cache counter range for _process_ : [201 - 401]
+INFO    10 Jul 2024 11:16:07 org.enhydra.shark.SharkUtilitiesAspect - Cache counter range for _activity_ : [201 - 401]
